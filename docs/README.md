@@ -2,7 +2,7 @@
 
 This README serves as the central index for OctoAcme project management process documentation. Use it as a starting point to navigate the full lifecycle of how work gets done at OctoAcme — from the first idea through delivery and continuous improvement.
 
-## Overview
+## Process Summary
 
 OctoAcme uses a lightweight but structured project management approach designed to move work from idea to delivery through a clear lifecycle: initiation, planning, execution, release, and retrospective. Projects begin with a one-pager that defines the problem, goal, success metrics, stakeholders, timeline, risks, and resource needs. Once approved, the team creates a prioritized backlog, estimates work, defines acceptance criteria and Definition of Done, and maps milestones and dependencies. This creates a repeatable process that keeps teams aligned while still emphasizing iterative delivery and small, testable increments.
 
