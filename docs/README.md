@@ -21,4 +21,4 @@ Quality assurance is built into both delivery workflows and release practices. T
 - [OctoAcme — Risk Management & Communication](octoacme-risks-and-communication.md)
 - [OctoAcme — Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
-- [OctoAcme Roles & Personas](octoacme-roles-and-personas.md)
+- [OctoAcme Personas](octoacme-roles-and-personas.md)
